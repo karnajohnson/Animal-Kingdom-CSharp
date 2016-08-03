@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2015\Projects\AK One\AK One\bin\Debug\AK One.exe.config
+c:\users\student\documents\visual studio 2015\Projects\AK One\AK One\bin\Debug\AK One.exe
+c:\users\student\documents\visual studio 2015\Projects\AK One\AK One\bin\Debug\AK One.pdb
+c:\users\student\documents\visual studio 2015\Projects\AK One\AK One\obj\Debug\AK One.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\AK One\AK One\obj\Debug\AK One.exe
+c:\users\student\documents\visual studio 2015\Projects\AK One\AK One\obj\Debug\AK One.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\AK Week 6\AK One\bin\Debug\AK One.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\AK Week 6\AK One\obj\Debug\AK One.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\AK Week 6\AK One\obj\Debug\AK One.pdb

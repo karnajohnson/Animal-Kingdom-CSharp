@@ -1,0 +1,6 @@
+C:\Users\student\documents\visual studio 2015\Projects\AK One\AK One\bin\Debug\AK One.exe.config
+C:\Users\student\documents\visual studio 2015\Projects\AK One\AK One\bin\Debug\AK One.exe
+C:\Users\student\documents\visual studio 2015\Projects\AK One\AK One\bin\Debug\AK One.pdb
+C:\Users\student\documents\visual studio 2015\Projects\AK One\AK One\obj\Debug\AnimalKingdom.csprojResolveAssemblyReference.cache
+C:\Users\student\documents\visual studio 2015\Projects\AK One\AK One\obj\Debug\AK One.exe
+C:\Users\student\documents\visual studio 2015\Projects\AK One\AK One\obj\Debug\AK One.pdb

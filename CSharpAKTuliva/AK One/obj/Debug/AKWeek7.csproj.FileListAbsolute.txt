@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\AKWeek7\AK One\bin\Debug\AK One.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\AKWeek7\AK One\obj\Debug\AK One.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\AKWeek7\AK One\obj\Debug\AK One.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\AKWeek7\AK One\bin\Debug\AK One.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\AKWeek7\AK One\bin\Debug\AK One.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\AKWeek7\AK One\obj\Debug\AKWeek7.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\AKWeek7\AK One\obj\Debug\AK_One.FormClient.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\AKWeek7\AK One\obj\Debug\AK_One.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\AKWeek7\AK One\obj\Debug\AKWeek7.csproj.GenerateResource.Cache
